@@ -6,3 +6,4 @@ myjob='xj_test.py'
 setup(windows=[{"script": myjob}])
 
 #python mysetup.py py2exe --dist-dir "d:\xj_test"
+#git
